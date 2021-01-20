@@ -56,3 +56,5 @@ WEBSITE: www.vtc.internshala.com
 <br/>TRADEMARKS:
 <br/>1.)The trademarks of the brands belong to the respective brands and Internshala does not trademark violations.
 <br/>2.)"Lifestyle" and "Lifestyle store" are not registered trademarks of Internshala nor it holds any copyright over the use of these words.
+
+# This was a project from internshala and this repo in not here so you can copy. It is not advised to copy in you internshala project 
