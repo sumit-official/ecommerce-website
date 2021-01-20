@@ -51,8 +51,8 @@ CONTACT: vtc-support@internshala.com
 WEBSITE: www.vtc.internshala.com
 
 *******************************************************************************************************************************************
-LICENSE AND COPYRIGHT: All the images used for this project are representational images.
-Internshala holds no copyright over these images.
-TRADEMARKS:
-1.)The trademarks of the brands belong to the respective brands and Internshala does not trademark violations.
-2.)"Lifestyle" and "Lifestyle store" are not registered trademarks of Internshala nor it holds any copyright over the use of these words.
+<br/>LICENSE AND COPYRIGHT: All the images used for this project are representational images.
+<br/>Internshala holds no copyright over these images.
+<br/>TRADEMARKS:
+<br/>1.)The trademarks of the brands belong to the respective brands and Internshala does not trademark violations.
+<br/>2.)"Lifestyle" and "Lifestyle store" are not registered trademarks of Internshala nor it holds any copyright over the use of these words.
